@@ -18,7 +18,7 @@ body{
 }
 
 .card-img-top{
-    height: 250px;
+    height: 15rem;
     background: url('http://www.moveandstay.com/picture_apartments_main/a1_40194.jpg');
     background-size: cover;
 }
@@ -30,7 +30,7 @@ body{
 .head-tag{
     display: inline-block;
     position: relative;
-    top: 20px;
+    top: 21px;
     left: -6px;
     background: #428bca;
     color: white;

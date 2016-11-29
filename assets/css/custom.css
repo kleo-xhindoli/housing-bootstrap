@@ -67,3 +67,7 @@ body{
     right: 0px;
     opacity: 0.5;
 }
+
+.card-icon{
+    margin-right: 6px;
+}

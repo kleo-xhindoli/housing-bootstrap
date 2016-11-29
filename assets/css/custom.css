@@ -17,6 +17,7 @@ body{
     border: none;
 }
 
+
 .card-img-top{
     height: 15rem;
     background: url('http://www.moveandstay.com/picture_apartments_main/a1_40194.jpg');
@@ -52,6 +53,11 @@ body{
     opacity: 0.7;
 }
 
+.favorite-single{
+    color: darkgrey;
+    opacity: 0.7;
+}
+
 .favorite:hover{
     opacity: 1;
     cursor: pointer;
@@ -70,4 +76,14 @@ body{
 
 .card-icon{
     margin-right: 6px;
+}
+
+.img-slider{
+    width: 100%;
+    height: auto;
+}
+
+.card-header{
+    background: #428bca;
+    color: white;
 }
